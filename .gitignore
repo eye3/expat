@@ -1,0 +1,9 @@
+.autotools
+.cproject
+.project
+Makefile
+config.log
+config.status
+expat.pc
+expat_config.h
+libtool
